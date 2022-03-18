@@ -1,0 +1,6 @@
+@media only screen and (max-width: 600px) {
+    .d-flex.about-section {
+      display: flex !important;
+      flex-direction: column !important;
+    }
+  }
